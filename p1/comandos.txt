@@ -1,0 +1,60 @@
+whoami
+Presenta el nombre de usuario en la pantalla del usuario que lo ejecuta. 
+
+grep
+Escribir en salida estándar aquellas líneas que concuerden con un patrón
+
+less
+Se trata de un programa similar a “more”, pero más avanzado, ya que permite consultar páginas hacia atrás y hacia delante.
+
+more
+Se encarga de paginar texto, mostrando una pantalla cada vez.
+
+uname
+Imprime información del sistema, incluyendo la versión del kernel o núcleo y del sistema operativo.
+
+top
+Se encarga de mostrar una lista de los principales procesos y su uso de CPU entre otros valores.
+
+du
+Muestra el espacio estimado ocupado por los ficheros y directorios.
+
+df
+Provee información sobre la utilización del espacio en disco en los diferentes sistemas de archivos montados en el sistema.
+
+ps
+Informa del estado de los procesos. Nos muestra una instantánea de los procesos actuales.
+
+kill
+Se encarga de liquidar un proceso dado.
+
+find
+Se utiliza este comando para buscar archivos dentro de una jerarquía de directorios. 
+
+chmod
+Se encarga de cambiar los permisos de acceso a los ficheros.
+
+chown
+Cambia el usuario y grupo propietarios de ficheros.
+
+ssh
+Ofrece comunicación encriptada y segura entre dos sistemas sobre una red no segura. 
+
+scp
+Permite realizar la transferencia de archivos. Podemos realizar la transferencia desde un ordenador local a un servidor remoto.
+
+uptime
+Indica el tiempo que el sistema encendido.
+
+w
+Muestra información sobre los usuarios que están conectados en ese momento a la máquina y sobre sus procesos. 
+
+wget
+Descarga el fichero o página web dada, indicando la URL.
+
+mount
+Se encarga de montar o desmontar un dispositivo dado sobre el sistema de ficheros.
+
+tree
+Nos permite mostrar de manera gráfica y de forma estructurada la jerarquía de los directorios de nuestro sistema operativo. Permite listar los directorios de los dispositivos externos.
+
